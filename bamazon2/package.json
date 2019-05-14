@@ -1,0 +1,26 @@
+{
+  "name": "bamazon2",
+  "version": "1.0.0",
+  "description": "bamazon db",
+  "main": "connection.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marrvill/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Marlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marrvill/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Marrvill/Bamazon#readme",
+  "dependencies": {
+    "nod": "^0.2.0",
+    "node": "^12.2.0"
+  }
+}
